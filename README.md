@@ -1,2 +1,2 @@
 # coronaOS
-UNIX based light weight OS build from Scratch .
+UNIX based light weight OS build from Scratch (Work In Progress).
